@@ -16,7 +16,7 @@ module "s3_bucket" {
 
 | Name | Description | Type | Default | Required |
 |------|-------------|------|---------|----------|
-| bucket_name | Name of the S3 bucket | string | n/a | yes |
+| corey-bucket-20260611 | Name of the S3 bucket | string | n/a | yes |
 
 ## Outputs
 
